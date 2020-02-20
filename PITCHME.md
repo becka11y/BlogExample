@@ -186,7 +186,7 @@ Use Text within color bubble
  @snapend
 ```
 ---?image=assets/img/sculpture-4862669_1280.jpg&size=cover
-@snap[north-west span-50]
+@snap[north-west span-40 text-right]
 ## And More ...
 @snapend
 
