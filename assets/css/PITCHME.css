@@ -38,6 +38,9 @@
 	color:#08364E
 	
 }
+.reveal pre {
+	font-size:0.55em !important;
+}
 .vh {
   position: absolute !important;
   overflow: hidden !important;
