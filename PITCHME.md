@@ -194,10 +194,14 @@ Use Text within color bubble
 @snap[west span-50 text-left font-oswald text-purple]
 This presentation was part of the Knowbility Blog post: 
 
-<br><a href="https://knowbility.org/blog/">A (More) Accessible Presentation</a>
+<br><a href="https://knowbility.org/blog/">A (More) Accessible Presentation Solution</a>
 @snapend
 
 @snap[south-west text-06]
 <a href="https://gitpitch.com/" target="_blank">Learn more about GitPitch.</a>
+@snapend
+
+@snap[south-east text-03 text-white text-right]
+Image by <a href="https://pixabay.com/users/Couleur-1195798/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4862669">Couleur</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4862669">Pixabay</a>
 @snapend
 
